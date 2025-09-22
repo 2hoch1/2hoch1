@@ -19,11 +19,11 @@ jobs:
         run: |
           npm run build
 
-      - name: Add CNAME (optional, falls du eine eigene Domain hast)
+      - name: Add CNAME
         run: |
           echo "2hoch1.dev" > out/CNAME
 
-      - name: Deploy to gh-pages branch
+      - name: Deploy to `gh-pages` branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
