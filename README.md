@@ -1,5 +1,9 @@
 <div align="center">
-  <a href="https://discord.com/users/420923268292411392" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/420923268292411392?hideSpotify=true&hideDiscrim=true&hideDecoration=true&theme=dark" />
-  </a>
+    <br />
+    <p>
+        <a href="https://www.buymeacoffee.com/2hoch1" target="_blank"><img
+                src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"
+                style="height: 60px !important;width: 217px !important;"></a>
+    </p>
+    <br />
 </div>
